@@ -1,5 +1,5 @@
 package com.vastika.userinfo.dao;
-
+//This is just for practice purpose
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
